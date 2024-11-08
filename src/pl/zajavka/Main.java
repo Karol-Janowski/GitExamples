@@ -9,5 +9,9 @@ public class Main {
         // Rozproszone systemy kontroli wersji (DVCS - Distributed Version Control system)
         // - Mercurial
         // - Git
+
+        // praca lokalna
+        // praca z serwerem
+        // snapshot/migawka/zrzsut/zdjecie - commit
     }
 }
