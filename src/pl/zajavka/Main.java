@@ -9,5 +9,6 @@ public class Main {
         // -soft
         // -mixed
         // -hard
+        // - dupa sraka
     }
 }
